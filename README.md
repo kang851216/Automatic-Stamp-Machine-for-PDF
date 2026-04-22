@@ -1,4 +1,5 @@
 # Automatic Stamp Machine for PDF
+<img width="598" height="196" alt="image" src="https://github.com/user-attachments/assets/7e89258b-6a03-42ba-8bc0-985ba5b1d234" />
 
 An automated tool designed to streamline the process of applying digital stamps or signatures to multiple PDF documents simultaneously. This tool helps eliminate the repetitive task of manually placing stamps on every page or every file.
 
