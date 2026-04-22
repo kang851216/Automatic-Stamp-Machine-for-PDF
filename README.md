@@ -18,17 +18,6 @@ An automated tool designed to streamline the process of applying digital stamps 
     cd Automatic-Stamp-Machine-for-PDF
     ```
 
-2.  **Set up Virtual Environment (Optional but recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## 📋 Prerequisites
 
 * Python 3.x
@@ -36,14 +25,17 @@ An automated tool designed to streamline the process of applying digital stamps 
 
 ## 📖 Usage
 
-1.  Place your source PDF files in the `input/` folder.
-2.  Place your stamp image (e.g., `stamp.png`) in the root directory.
+1.  Prepare your source PDF files.
+2.  Prepare your stamp image.
 3.  Configure the coordinates and settings in the script or configuration file.
 4.  Run the application:
     ```bash
-    python main.py
+    python Automatic Stamp Machine for PDF.py
     ```
-5.  Find your stamped documents in the `output/` folder.
+5.  Simply UI windown will be appeared.
+6.  Find your stamp image.
+7.  Find your target PDF document.
+8.  Click "Merge" and save the result.pdf in same directory of this code.
 
 ## ⚙️ Configuration
 
